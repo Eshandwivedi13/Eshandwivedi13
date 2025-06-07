@@ -1,9 +1,9 @@
 # 💫 About Me: 
  With a strong foundation in Data Structures and Algorithms, coupled with hands-on experience in Backend and Frontend Development using technologies like HTML, CSS, JavaScript, React, Java, Spring Boot, Maven, and RESTful APIs. <br><br>- 🔭 I’m currently working on [AI_MockInterview_Platform](https://github.com/Eshandwivedi13/AI_Mock_InterviewPlatform)<br><br>- 🌱 I’m currently learning **React.js, Next.js, Node.js, TypeScript**<br><br>- 💬 Ask me about **Java, DSA, Javascript, Spring Boot, JPA, Maven, SQL**<br><br>- 📫 How to reach me **eshan.dwivedi786@gmail.com**
 
-
+<!--
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eshandwivedi12) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@eshandwivedi_12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eshan.dwivedi786@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eshandwivedi12) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@eshandwivedi_12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eshan.dwivedi786@gmail.com)  -->
 
 
 ## 🧠 Coding Profiles:
