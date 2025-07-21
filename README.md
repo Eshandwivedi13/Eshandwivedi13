@@ -1,5 +1,5 @@
 # 💫 About Me: 
- With a strong foundation in Data Structures and Algorithms, coupled with hands-on experience in Backend and Frontend Development using technologies like HTML, CSS, JavaScript, React, Java, Spring Boot, Maven, and RESTful APIs. <br><br>- 🔭 I’m currently working on [AI_MockInterview_Platform](https://github.com/Eshandwivedi13/AI_Mock_InterviewPlatform)<br><br>- 🌱 I’m currently learning **React.js, Next.js, Node.js, TypeScript**<br><br>- 💬 Ask me about **Java, DSA, Javascript, Spring Boot, JPA, Maven, SQL, HTML, CSS, Javascript**<br><br>- 📫 How to reach me **eshan.dwivedi786@gmail.com**
+ With a strong foundation in Data Structures and Algorithms, coupled with hands-on experience in Backend and Frontend Development using technologies like HTML, CSS, JavaScript, React, Java, Spring Boot, Maven, and RESTful APIs. <br><br>- 🔭 I’m currently working on [AI_MockInterview_Platform](https://github.com/Eshandwivedi13/AI_Mock_InterviewPlatform)<br><br>- 🌱 I’m currently learning **React.js, Next.js, Node.js, TypeScript**<br><br>- 💬 Ask me about **Java, DSA, Spring Boot, JPA, Maven, SQL, HTML, CSS, Javascript**<br><br>- 📫 How to reach me **eshan.dwivedi786@gmail.com**
 
 <!--
 ## 🌐 Socials:
